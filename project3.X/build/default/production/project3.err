@@ -1,0 +1,4 @@
+Warning[205] C:\USERS\KORAY\MPLABXPROJECTS\PROJECT3.X\PROJECT3.ASM 2 : Found directive in column 1. (list)
+Warning[205] C:\USERS\KORAY\MPLABXPROJECTS\PROJECT3.X\PROJECT3.ASM 4 : Found directive in column 1. (__CONFIG)
+Message[302] C:\USERS\KORAY\MPLABXPROJECTS\PROJECT3.X\PROJECT3.ASM 29 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\KORAY\MPLABXPROJECTS\PROJECT3.X\PROJECT3.ASM 34 : Register in operand not in bank 0.  Ensure that bank bits are correct.

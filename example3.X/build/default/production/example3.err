@@ -1,0 +1,4 @@
+Message[302] C:\USERS\KORAY\MPLABXPROJECTS\EXAMPLE3.X\EXAMPLE3.ASM 46 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\KORAY\MPLABXPROJECTS\EXAMPLE3.X\EXAMPLE3.ASM 49 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\KORAY\MPLABXPROJECTS\EXAMPLE3.X\EXAMPLE3.ASM 52 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[207] C:\USERS\KORAY\MPLABXPROJECTS\EXAMPLE3.X\EXAMPLE3.ASM 88 : Found label after column 1. (KESME)
